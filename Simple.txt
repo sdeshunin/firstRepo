@@ -3,3 +3,4 @@ The file contains only simple sentences written in basic English
 Later, I wiil upload and create many new files with data and code
 I added this new line to the file to check out the how the commit option works
 This time I will check the commit option with a comment
+And now I wrote down the next line to make another comment and commiy
