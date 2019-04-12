@@ -1,3 +1,4 @@
 This is the first new file created by me to learn how it works.
 The file contains only simple sentences written in basic English
 Later, I wiil upload and create many new files with data and code
+I added this new line to the file to check out the how the commit option works
